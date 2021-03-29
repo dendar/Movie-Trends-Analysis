@@ -57,15 +57,19 @@ To create this dataframe I have merged the relevant tables (detailed description
 
 ## V. Data Preparation
 
-After careful exploration of all datasets made available to me by flatiron, I decided to focus my analyis on data extracted from 4 of the different datasets To prepare the dataframe necessary for this analysis I took a few different steps aimed at cleaning and organizing  and integrating the relevant data:
+After careful exploration of all datasets made available <a href="https://github.com/dendar/dsc-phase-1-project/tree/master/zippedData" target="_blank">zippedData</a>, I decided to focus my analyis on data extracted from 4 of the different datasets To prepare the dataframe necessary for this analysis I took a few different steps aimed at cleaning and organizing  and integrating the relevant data: 
 
 ### 1) Datasets imported: 
 
-* "tn_movie_budget"
+* In the folder <a href="https://github.com/dendar/dsc-phase-1-project/tree/master/zippedData" target="_blank">zippedData</a> are movie datasets from:
 
-* "imdb_title_basic"
-
-* "tdmb_movies"
+    <a href="https://www.boxofficemojo.com/" target="_blank">Box Office Mojo</a>
+    <a href="https://www.imdb.com/" target="_blank">IMDB</a>
+    <a href="https://www.rottentomatoes.com/" target="_blank">Rotten Tomatoes</a>
+    <a href="https://www.themoviedb.org/" target="_blank">TheMovieDB</a>
+    <a href="https://www.the-numbers.com/" target="_blank">The Numbers</a>
+    
+  
             
 ### 2) Cleaning and preparation of financial-related data:
 
@@ -203,9 +207,4 @@ Here I reviewed the movie trends from the past decade to make recomendations on 
 
         
 * Movies produced should be released either in the begining of the year or in the summer/fall as those seem to be the most active times of the year for movie releases. An important consideration to have here is which distribution peak is better for specific movie genres as this can provide additional clues on when to release specific movies. For instance the first peak of movie releases in February-April is likely linked to Valentine's day while movies released later in the year are better candidates for Award nominations. 
-
-
-
-
-
 
