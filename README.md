@@ -64,9 +64,13 @@ After careful exploration of all datasets made available <a href="https://github
 * In the folder <a href="https://github.com/dendar/dsc-phase-1-project/tree/master/zippedData" target="_blank">zippedData</a> are movie datasets from:
 
     <a href="https://www.boxofficemojo.com/" target="_blank">Box Office Mojo</a>
+    
     <a href="https://www.imdb.com/" target="_blank">IMDB</a>
+    
     <a href="https://www.rottentomatoes.com/" target="_blank">Rotten Tomatoes</a>
+    
     <a href="https://www.themoviedb.org/" target="_blank">TheMovieDB</a>
+    
     <a href="https://www.the-numbers.com/" target="_blank">The Numbers</a>
     
   
